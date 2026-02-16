@@ -1,4 +1,4 @@
-# WES-237-Lab-
+# WES-237-Lab-4
 
 ### Includes: ###
 - Pynq Side server/client code
