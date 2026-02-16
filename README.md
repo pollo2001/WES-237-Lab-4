@@ -1,1 +1,6 @@
-# WES-237-Lab-4
+# WES-237-Lab-
+
+### Includes: ###
+- Pynq Side server/client code
+- Mac side client code
+- Report
